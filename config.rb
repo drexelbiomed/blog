@@ -6,9 +6,9 @@
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
-  # blog.prefix = "blog"
+  # blog.prefix = ""
 
-  # blog.permalink = "{year}/{month}/{day}/{title}.html"
+  blog.permalink = "#{http_prefix}{year}/{month}/{day}/{title}.html"
   # Matcher for blog source files
   # blog.sources = "{year}-{month}-{day}-{title}.html"
   # blog.taglink = "tags/{tag}.html"
@@ -69,7 +69,7 @@ page "/feed.xml", layout: false
 # activate :automatic_image_sizes
 
 # Reload the browser automatically whenever files change
-# activate :livereload
+activate :livereload
 
 # Methods defined in the helpers block are available in templates
 # helpers do
@@ -99,5 +99,5 @@ configure :build do
   # activate :relative_assets
 
   # Or use a different image path
-  # set :http_prefix, "/Content/images/"
+  set :http_prefix, "/blog/"
 end
