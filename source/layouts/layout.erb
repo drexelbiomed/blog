@@ -16,7 +16,7 @@
 	<![endif]-->
 
 	<title><%= current_page.data.title || "Sample Page" %></title>
-
+	<link href='http://fonts.googleapis.com/css?family=Work+Sans' rel='stylesheet' type='text/css'>
 	<%= stylesheet_link_tag "normalize", "all" %>
 	<%= yield_content :styles %>
 
@@ -29,7 +29,9 @@
 	</script>
 
 	<div id="wrapper">
+		<%= partial "partials/nav" %>
 		<%= yield %>
+		<%= partial "partials/footer" %>
 	</div>
 </body>
 </html>
