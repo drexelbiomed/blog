@@ -17,7 +17,7 @@
 
 	<title><%= current_page.data.title || "Sample Page" %></title>
 
-	<%= stylesheet_link_tag "styles" %>
+	<%= stylesheet_link_tag "normalize", "all" %>
 	<%= yield_content :styles %>
 
 	<%= javascript_include_tag  "main" %>
