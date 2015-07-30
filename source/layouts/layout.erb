@@ -26,6 +26,9 @@
 
 	<div id="main" role="main">
 		<%= partial "partials/nav" %>
+		<% if current_page.data.title.nil? == false %>
+			<h1><%= current_page.data.title %></h1>
+		<% end %>
 		<%= yield %>
 		<%= partial "partials/footer" %>
 	</div>
