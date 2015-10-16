@@ -5,10 +5,56 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-07-09T12:58:00-04:00</updated>
+  <updated>2015-09-24T11:07:00-04:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Improving Camera Capabilities</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2015/shoot-better-photos-on-a-budget/"/>
+    <id>http://blog.url.com/blog/2015/shoot-better-photos-on-a-budget/</id>
+    <published>2015-09-24T11:07:00-04:00</published>
+    <updated>2015-10-16T10:32:37-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="budget"&gt;Budget&lt;/h2&gt;
+&lt;p&gt;On a budget of &amp;lt; $200 We considered two scenarios…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Option One:&lt;/strong&gt; E-PL1 from Amazon $180&lt;/p&gt;
+
+&lt;p&gt;Reviews said it's low light performance was not the best. Camera with kit lens on Amazon in a reasonable $180.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Option Two:&lt;/strong&gt; EPL-1 from Ebay $130 + Video Microphone and Adapter $50&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Total $180&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Although vintage lenses require manual operation and do not have zoom or autofocus, metering and auto exposure still work fine and they take beautiful photos. And since the lens was had an maximum f-stop of 2 and focal length 50mm, it would perform much better than the kit lens in low-lighting and could perform as a high quality Portrait lens.&lt;/p&gt;
+
+&lt;p&gt;We went with option 2 and saved $50 from using ebay instead of Amazon.&lt;/p&gt;
+
+&lt;p&gt;Olympus E-PL1 system using an adapted Pentax SMC 28mm 1:2.8 vintage lens.&lt;/p&gt;
+
+&lt;h2 id="video-test"&gt;Video Test&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/138112066" width="100%" height="393" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;h2 id="portrait-test"&gt;Portrait Test&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Steve Portrait" src="/blog/images/P1010514.JPG" /&gt;&lt;/p&gt;
+
+&lt;h2 id="photo-shoot-on-drexels-campus"&gt;Photo Shoot on Drexel's Campus&lt;/h2&gt;
+&lt;p&gt;All photos below were taken at f8 so that everything was in focus and at ISO 200.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Drexel Quad" src="/blog/images/P1010562.jpg" /&gt;
+&lt;img alt="Handschumacher Dining Center Entrance" src="/blog/images/P1010574.jpg" /&gt;
+&lt;img alt="Drexel Chestnut Square" src="/blog/images/P1010579.jpg" /&gt;
+&lt;img alt="33rd Street Trolley Entrance" src="/blog/images/P1010591.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;The next two photos were taken on back-to-back days. The difference as a result of the weather is outstanding…&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="DAC-Cloudy" src="/blog/images/P1010546.jpg" /&gt;
+&lt;img alt="DAC-Sunny" src="/blog/images/P1010592.jpg" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Hello World</title>
     <link rel="alternate" href="http://blog.url.com/blog/2015/hello-world/"/>
@@ -26,7 +72,7 @@
     <link rel="alternate" href="http://blog.url.com/blog/2012/example-article/"/>
     <id>http://blog.url.com/blog/2012/example-article/</id>
     <published>2011-12-31T19:00:00-05:00</published>
-    <updated>2015-07-09T12:54:45-04:00</updated>
+    <updated>2015-07-29T15:47:49-04:00</updated>
     <author>
       <name>Article Author</name>
     </author>

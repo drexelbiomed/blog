@@ -4,6 +4,10 @@ Error: File to import not found or unreadable: bourbon/app/assets/stylesheets/_b
          /Users/Dave/src/biomed-blog/source/stylesheets
          /opt/boxen/rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/compass-core-1.0.3/stylesheets
          Compass::SpriteImporter
+         /opt/boxen/rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/bourbon-4.2.3/app/assets/stylesheets
+         /opt/boxen/rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/neat-1.7.2/app/assets/stylesheets
+         /opt/boxen/rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/bourbon-4.2.3/app/assets/stylesheets
+         /opt/boxen/rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/neat-1.7.2/app/assets/stylesheets
         on line 1 of /Users/Dave/src/biomed-blog/source/css/settings/_imports.scss
         from line 2 of /Users/Dave/src/biomed-blog/source/css/styles.scss
 
@@ -105,4 +109,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: bourbon/app/assets/stylesheets/_bourbon.\A        Load paths:\A          /Users/Dave/src/biomed-blog/source/stylesheets\A          /opt/boxen/rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/compass-core-1.0.3/stylesheets\A          Compass::SpriteImporter\A         on line 1 of /Users/Dave/src/biomed-blog/source/css/settings/_imports.scss\A         from line 2 of /Users/Dave/src/biomed-blog/source/css/styles.scss\A \A 1: @import \"settings/vars\";\A 2: @import \"settings/imports\";"; }
+  content: "Error: File to import not found or unreadable: bourbon/app/assets/stylesheets/_bourbon.\A        Load paths:\A          /Users/Dave/src/biomed-blog/source/stylesheets\A          /opt/boxen/rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/compass-core-1.0.3/stylesheets\A          Compass::SpriteImporter\A          /opt/boxen/rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/bourbon-4.2.3/app/assets/stylesheets\A          /opt/boxen/rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/neat-1.7.2/app/assets/stylesheets\A          /opt/boxen/rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/bourbon-4.2.3/app/assets/stylesheets\A          /opt/boxen/rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/neat-1.7.2/app/assets/stylesheets\A         on line 1 of /Users/Dave/src/biomed-blog/source/css/settings/_imports.scss\A         from line 2 of /Users/Dave/src/biomed-blog/source/css/styles.scss\A \A 1: @import \"settings/vars\";\A 2: @import \"settings/imports\";"; }
